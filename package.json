@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "mqtt": "^5.10.1",
+    "node-red-node-mongodb": "^0.2.5"
+  }
+}
